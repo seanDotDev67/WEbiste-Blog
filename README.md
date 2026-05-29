@@ -16,7 +16,7 @@ This project was created as part of our school activity to demonstrate our knowl
 ## 📁 How to View
 
 You can view the project live by opening `index.html` in your browser, or through this DevTunnel link (if active):  
-[Click here to preview](https://5pg7rl82-5501.asse.devtunnels.ms/)
+[Click here to preview]([https://5pg7rl82-5501.asse.devtunnels.ms/](https://seandotdev67.github.io/WEbiste-Blog/))
 
 ## 🙋‍♂️ About Me
 
